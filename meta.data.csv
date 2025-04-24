@@ -1,0 +1,59 @@
+﻿ID,project,patient_ID,age,gender,smoking,tumor_type,TNM,stage,stage.1,stage.2,sample_ID,treatment,statage,curative_effect,time_point,location,location_note,method,seq_method,cell_filterd,Mutation,Others,Differentiated_state
+GSM3827114,,P0001,70,Female,Never,LUAD,,IA,early stage,I,LUNG_N01,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,WT,3194,MD
+GSM3827115,,P0006,54,Male,Former,LUAD,,IA,early stage,I,LUNG_N06,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,na,2839,MD
+GSM3827116,,P0008,60,Female,Never,LUAD,,IB,early stage,I,LUNG_N08,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,L858R,3380,MD
+GSM3827117,,P0009,67,Male,Former,LUAD,,IIA,early stage,II,LUNG_N09,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,WT,2528,PD
+GSM3827118,,P0018,62,Male,Former,LUAD,,IA,early stage,I,LUNG_N18,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,del19,4628,MD
+GSM3827119,,P0019,53,Male,Current,LUAD,,IA,early stage,I,LUNG_N19,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,exon 20,3870,WD
+GSM3827120,,P0020,55,Male,Current,LUAD,,IA,early stage,I,LUNG_N20,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,WT,5798,PD
+GSM3827121,,P0028,73,Male,Current,LUAD,,IIIA,early stage,III,LUNG_N28,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,WT,3411,na
+GSM3827122,,P0030,56,Male,Never,LUAD,,IA,early stage,I,LUNG_N30,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,del19,3884,na
+GSM3827123,,P0031,65,Male,Former,LUAD,,IIIA,early stage,III,LUNG_N31,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,WT,4241,na
+GSM3827124,,P0034,64,Male,Never,LUAD,,IA3,early stage,I,LUNG_N34,naïve,/,/,baseline,Normal Lung,, surgical resection,10X,All cell,WT,5222,MD
+GSM3827125,,P0006,54,Male,Former,LUAD,,IA,early stage,I,LUNG_T06,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,na,3426,MD
+GSM3827126,,P0008,60,Female,Never,LUAD,,IB,early stage,I,LUNG_T08,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,L858R,3765,MD
+GSM3827127,,P0009,67,Male,Former,LUAD,,IIA,early stage,II,LUNG_T09,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,WT,3840,PD
+GSM3827128,,P0018,62,Male,Former,LUAD,,IA,early stage,I,LUNG_T18,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,del19,3705,MD
+GSM3827129,,P0019,53,Male,Current,LUAD,,IA,early stage,I,LUNG_T19,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,exon 20,4361,WD
+GSM3827130,,P0020,55,Male,Current,LUAD,,IA,early stage,I,LUNG_T20,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,WT,4021,PD
+GSM3827131,,P0025,69,Male,Former,LUAD,,IA,early stage,I,LUNG_T25,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,WT,4374,na
+GSM3827132,,P0028,73,Male,Current,LUAD,,IIIA,early stage,III,LUNG_T28,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,WT,4705,na
+GSM3827133,,P0030,56,Male,Never,LUAD,,IA,early stage,I,LUNG_T30,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,del19,4094,na
+GSM3827134,,P0031,65,Male,Former,LUAD,,IIIA,early stage,III,LUNG_T31,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,WT,5578,na
+GSM3827135,,P0034,64,Male,Never,LUAD,,IA3,early stage,I,LUNG_T34,naïve,/,/,baseline,Tumor Lung,early stage, surgical resection,10X,All cell,WT,3280,MD
+GSM3827136,,P1006,69,Male,Current,LUAD,,IV,advanced stage,IV,EBUS_06,naïve,/,/,baseline,Tumor Lung,advanced stage,endobronchial ultrasound / bronchoscopy,10X,All cell,WT,2303,PD
+GSM3827137,,P1028,52,Male,Former,LUAD,,IV,advanced stage,IV,EBUS_28,naïve,/,/,baseline,Tumor Lung,advanced stage,endobronchial ultrasound / bronchoscopy,10X,All cell,WT,5182,na
+GSM3827138,,P1049,63,Male,Current,LUAD,,IV,advanced stage,IV,EBUS_49,naïve,/,/,baseline,Tumor Lung,advanced stage,endobronchial ultrasound / bronchoscopy,10X,All cell,WT,1775,PD
+GSM3827139,,P1058,80,Female,Never,LUAD,,IV,advanced stage,IV,BRONCHO_58,naïve,/,/,baseline,Tumor Lung,advanced stage,endobronchial ultrasound / bronchoscopy,10X,All cell,na,2813,PD
+GSM3827140,,P1010,68,Male,Former,LUAD,,IV,advanced stage,IV,EBUS_10,naïve,/,/,baseline,Metastatic LN,LN,endobronchial ultrasound / bronchoscopy,10X,All cell,WT,5144,na
+GSM3827141,,P1011,81,Female,Never,LUAD,,IV,advanced stage,IV,BRONCHO_11,naïve,/,/,baseline,Metastatic LN,LN,endobronchial ultrasound / bronchoscopy,10X,All cell,L858R,3178,na
+GSM3827142,,P1012,60,Female,Never,LUAD,,IV,advanced stage,IV,EBUS_12,naïve,/,/,baseline,Metastatic LN,LN,endobronchial ultrasound / bronchoscopy,10X,All cell,WT,3115,na
+GSM3827143,,P1013,53,Male,Current,LUAD,,IV,advanced stage,IV,EBUS_13,naïve,/,/,baseline,Metastatic LN,LN,endobronchial ultrasound / bronchoscopy,10X,All cell,WT,3550,PD
+GSM3827144,,P1015,64,Male,Current,LUAD,,IIIA,early stage,III,EBUS_15,naïve,/,/,baseline,Metastatic LN,LN,endobronchial ultrasound / bronchoscopy,10X,All cell,exon 18 (G719X) exon 20 (S768I),1105,na
+GSM3827145,,P1019,68,Female,Never,LUAD,,IV,advanced stage,IV,EBUS_19,naïve,/,/,baseline,Metastatic LN,LN,endobronchial ultrasound / bronchoscopy,10X,All cell,del19,2112,na
+GSM3827146,,P1051,43,Male,Former,LUAD,,IV,advanced stage,IV,EBUS_51,naïve,/,/,baseline,Metastatic LN,LN,endobronchial ultrasound / bronchoscopy,10X,All cell,WT,3275,na
+GSM3827147,,P2001,61,Male,Current,LUAD,,IIB,early stage,II,LN_01,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,WT,3626,PD
+GSM3827148,,P2002,66,Female,Never,LUAD,,IB,early stage,I,LN_02,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,L858R,3178,MD
+GSM3827149,,P2003,67,Male,Former,LUAD,,IIB,early stage,II,LN_03,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,L858R,3013,MD
+GSM3827150,,P2004,67,Male,Current,LUAD,,IA2,early stage,I,LN_04,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,L858R,3092,MD
+GSM3827151,,P2005,56,Female,Never,LUAD,,IA3,early stage,I,LN_05,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,del19,3087,MD
+GSM3827152,,P2006,63,Female,Never,LUAD,,IA3,early stage,I,LN_06,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,na,2936,MD
+GSM3827153,,P2007,68,Male,Former,LUAD,,IA,early stage,I,LN_07,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,WT,5713,MD
+GSM3827154,,P2008,77,Female,Never,LUAD,,IB,early stage,I,LN_08,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,WT,4395,MD
+GSM3827155,,P2011,74,Male,Never,LUAD,,IB,early stage,I,LN_11,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,L858R,3788,MD
+GSM3827156,,P2012,62,Male,Current,LUAD,,IA,early stage,I,LN_12,naïve,/,/,baseline,Normal LN,LN, surgical resection,10X,All cell,WT,4618,MD
+GSM3827157,,P1006,69,Male,Current,LUAD,,IV,advanced stage,IV,EFFUSION_06,naïve,/,/,baseline,MPE,Pleura,MPE,10X,All cell,WT,4884,PD
+GSM3827158,,P1011,81,Female,Never,LUAD,,IV,advanced stage,IV,EFFUSION_11,naïve,/,/,baseline,MPE,Pleura,MPE,10X,All cell,L858R,2943,na
+GSM3827159,,P1012,60,Female,Never,LUAD,,IV,advanced stage,IV,EFFUSION_12,naïve,/,/,baseline,MPE,Pleura,MPE,10X,All cell,WT,4224,na
+GSM3827160,,P1013,53,Male,Current,LUAD,,IV,advanced stage,IV,EFFUSION_13,naïve,/,/,baseline,MPE,Pleura,MPE,10X,All cell,WT,4441,PD
+GSM3827161,,P1064,61,Male,Former,LUAD,,IV,advanced stage,IV,EFFUSION_64,naïve,/,/,baseline,MPE,Pleura,MPE,10X,All cell,na,3812,na
+GSM3827162,,P3002,46,Female,Never,LUAD,,IV,advanced stage,IV,NS_02,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,WT,2313,na
+GSM3827163,,P3003,81,Female,Never,LUAD,,IV,advanced stage,IV,NS_03,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,p.L858R,2990,na
+GSM3827164,,P3004,39,Male,Former,LUAD,,IV,advanced stage,IV,NS_04,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,WT,1904,na
+GSM3827165,,P3006,59,Male,Former,LUAD,,IV,advanced stage,IV,NS_06,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,WT,1070,PD
+GSM3827166,,P3007,64,Female,Never,LUAD,,IV,advanced stage,IV,NS_07,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,WT,5730,na
+GSM3827167,,P3012,59,Female,Never,LUAD,,IV,advanced stage,IV,NS_12,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,del19 & L858R,3182,na
+GSM3827168,,P3013,50,Female,Former,LUAD,,IV,advanced stage,IV,NS_13,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,G719S & S768I ,4845,na
+GSM3827169,,P3016,69,Male,Current,LUAD,,IIIA,early stage,III,NS_16,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,WT,1317,PD
+GSM3827170,,P3017,56,Female,Never,LUAD,,IV,advanced stage,IV,NS_17,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,na,2409,na
+GSM3827171,,P3019,44,Female,Never,LUAD,,IV,advanced stage,IV,NS_19,naïve,/,/,baseline,Metastasis,Brain, surgical resection,10X,All cell,na,3300,na

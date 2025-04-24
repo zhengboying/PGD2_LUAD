@@ -1,0 +1,27 @@
+CellType,Marker,Reference,doi,Note
+T,CD8A,,,CD8
+T,CD8B,,,CD8
+T,CD4,,,
+CD8-MAIT,SLC4A10,,,CD8
+CD8-MAIT,ZBTB16,,,CD8
+CD8-MAIT,NCR3,,,CD8
+CD8-MAIT,RORA,,,CD8
+CD8-MAIT,KLRB1,,,CD8
+naiveT,CCR7,,,NA
+naiveT,SELL,,,NA
+naiveT,TCF7,,,NA
+naiveT,LEF1,,,NA
+Cytotoxic CD8+T,GZMA,,,NA
+Cytotoxic CD8+T,NKG7,,,NA
+Cytotoxic CD8+T,GZMK,,,NA
+Cytotoxic CD8+T,GNLY,,,NA
+Cytotoxic CD8+T,GZMH,,,NA
+sub_cd8,KIR2DL4,,,
+sub_cd8,CX3CR1,,,
+sub_cd8,TYROBP,,,
+sub_cd8,CXCR5,,,
+sub_cd8,RPS12,,,
+sub_cd8,CD52,,,
+sub_cd8,NME1,,,
+PGD2,PTGDR,,,
+PGD2,PTGDS,,,
